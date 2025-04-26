@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace audiamus.aaxconv.lib.json {
+namespace audiamus.aaxconv.lib.jsonmodel {
   public class Chapter {
     public int length_ms { get; set; }
     public int start_offset_ms { get; set; }

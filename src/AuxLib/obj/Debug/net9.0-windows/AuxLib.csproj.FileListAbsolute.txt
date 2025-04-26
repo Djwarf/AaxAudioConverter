@@ -1,0 +1,13 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\bin\Debug\net9.0-windows\UtilLib.deps.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\bin\Debug\net9.0-windows\UtilLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\bin\Debug\net9.0-windows\UtilLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\AuxLib.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\AuxLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\AuxLib.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\AuxLib.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\AuxLib.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\AuxLib.sourcelink.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\UtilLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\refint\UtilLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\UtilLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxLib\obj\Debug\net9.0-windows\ref\UtilLib.dll

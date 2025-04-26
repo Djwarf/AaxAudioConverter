@@ -1,0 +1,16 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\AuxLib.deps.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\AuxLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\AuxLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\UtilLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\WindowsDialogBox.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\UtilLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\bin\Debug\net9.0-windows\WindowsDialogBox.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxWinLib.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxWinLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxWinLib.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxWinLib.sourcelink.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxWinLib.csproj.Up2Date
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\refint\AuxLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\AuxLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\obj\Debug\net9.0-windows\ref\AuxLib.dll

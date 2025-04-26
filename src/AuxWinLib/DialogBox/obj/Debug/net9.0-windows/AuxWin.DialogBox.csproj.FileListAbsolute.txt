@@ -1,0 +1,12 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\bin\Debug\net9.0-windows\WindowsDialogBox.deps.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\bin\Debug\net9.0-windows\WindowsDialogBox.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\bin\Debug\net9.0-windows\WindowsDialogBox.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\AuxWin.DialogBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\AuxWin.DialogBox.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\AuxWin.DialogBox.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\AuxWin.DialogBox.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\AuxWin.DialogBox.sourcelink.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\WindowsDialogBox.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\refint\WindowsDialogBox.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\WindowsDialogBox.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWinLib\DialogBox\obj\Debug\net9.0-windows\ref\WindowsDialogBox.dll

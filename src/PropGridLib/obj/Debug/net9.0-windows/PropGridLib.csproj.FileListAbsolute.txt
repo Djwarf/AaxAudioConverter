@@ -1,0 +1,12 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\bin\Debug\net9.0-windows\PropGridLib.deps.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\bin\Debug\net9.0-windows\PropGridLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\bin\Debug\net9.0-windows\PropGridLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.sourcelink.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\refint\PropGridLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\PropGridLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\net9.0-windows\ref\PropGridLib.dll

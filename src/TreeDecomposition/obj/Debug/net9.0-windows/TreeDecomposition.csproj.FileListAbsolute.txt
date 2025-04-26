@@ -1,0 +1,16 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\bin\Debug\net9.0-windows\TreeDecomposition.deps.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\bin\Debug\net9.0-windows\TreeDecomposition.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\bin\Debug\net9.0-windows\TreeDecomposition.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\bin\Debug\net9.0-windows\UtilLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\bin\Debug\net9.0-windows\UtilLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.AssemblyInfoInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.AssemblyInfo.cs
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.sourcelink.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDeco.970B5043.Up2Date
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\refint\TreeDecomposition.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\TreeDecomposition.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\TreeDecomposition\obj\Debug\net9.0-windows\ref\TreeDecomposition.dll

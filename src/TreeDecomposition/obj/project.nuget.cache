@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7WiKG9x8FA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djwar\\source\\repos\\AaxAudioConverter\\src\\TreeDecomposition\\TreeDecomposition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

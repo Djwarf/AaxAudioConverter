@@ -1,0 +1,4 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PerfLib\obj\Debug\net9.0\PerfLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PerfLib\obj\Debug\net9.0\PerfLib.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PerfLib\obj\Debug\net9.0\PerfLib.sourcelink.json
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PerfLib\obj\Debug\net9.0\PerfLib.csproj.AssemblyReference.cache

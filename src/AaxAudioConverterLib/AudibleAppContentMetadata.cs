@@ -116,7 +116,7 @@ namespace audiamus.aaxconv.lib {
 
     private void getContentMetaChapters (Book.Part part, string metafile, bool skuOnly) {
       string json = File.ReadAllText (metafile);
-      var metadata = JsonConvert.DeserializeObject<json.AppContentMetadata> (json);
+      var metadata = JsonConvert.DeserializeObject<jsonmodel.AppContentMetadata> (json);
 
       // get the SKU
       part.SKU = metadata.content_metadata.content_reference.sku;

@@ -1,16 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Resources;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using audiamus.aaxconv.lib;
 using audiamus.aaxconv.lib.ex;
 using audiamus.aux;
+using audiamus.aux.diagn;
 using audiamus.aux.ex;
+using audiamus.aux.propgrid;
 using audiamus.aux.win;
+using Microsoft.WindowsAPICodePack.Dialogs;
 using static audiamus.aux.ApplEnv;
+using Binding = System.Windows.Forms.Binding;
+using System.ComponentModel;
 
 namespace audiamus.aaxconv {
   using R = Properties.Resources;
@@ -28,10 +35,16 @@ namespace audiamus.aaxconv {
 
     private ComboBoxEnumAdapter<EAaxCopyMode> _cbAdapterAaxCopyMode;
 
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public bool SettingsReset { get; private set; }
+    
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public bool Dirty { get; private set; }
+    
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public bool ListViewDirty { get; private set; }
 
+    [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
     public new bool Enabled {
       get => _enabled;
       set

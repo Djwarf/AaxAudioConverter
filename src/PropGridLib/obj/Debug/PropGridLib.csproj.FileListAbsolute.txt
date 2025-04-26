@@ -1,0 +1,6 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\bin\Debug\PropGridLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\bin\Debug\PropGridLib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\PropGridLib.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\PropGridLib.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\PropGridLib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\PropGridLib\obj\Debug\PropGridLib.pdb

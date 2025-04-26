@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0noTxyHbTl8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djwar\\source\\repos\\AaxAudioConverter\\src\\AaxAudioConverterLib\\AaxAudioConverterLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djwar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\ude.netstandard\\1.2.0\\ude.netstandard.1.2.0.nupkg.sha512",
+    "C:\\Users\\Djwar\\.nuget\\packages\\z440.atl.core\\4.20.0\\z440.atl.core.4.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

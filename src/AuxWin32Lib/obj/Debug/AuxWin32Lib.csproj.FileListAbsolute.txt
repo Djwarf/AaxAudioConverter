@@ -1,0 +1,6 @@
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWin32Lib\bin\Debug\AuxWin32Lib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWin32Lib\bin\Debug\AuxWin32Lib.pdb
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWin32Lib\obj\Debug\AuxWin32Lib.csproj.AssemblyReference.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWin32Lib\obj\Debug\AuxWin32Lib.csproj.CoreCompileInputs.cache
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWin32Lib\obj\Debug\AuxWin32Lib.dll
+C:\Users\Djwar\source\repos\AaxAudioConverter\src\AuxWin32Lib\obj\Debug\AuxWin32Lib.pdb

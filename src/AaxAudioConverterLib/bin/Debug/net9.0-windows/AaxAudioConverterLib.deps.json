@@ -1,0 +1,175 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AaxAudioConverterLib/1.0.0": {
+        "dependencies": {
+          "AuxWin32Lib": "1.0.0",
+          "Newtonsoft.Json": "13.0.3",
+          "TreeDecomposition": "1.0.0",
+          "Ude.NetStandard": "1.2.0",
+          "UtilLib": "1.0.0",
+          "z440.atl.core": "4.20.0",
+          "UtilLib.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "AaxAudioConverterLib.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/8.0.0": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "8.0.0",
+          "System.Security.Cryptography.ProtectedData": "8.0.0"
+        }
+      },
+      "System.Diagnostics.EventLog/8.0.0": {},
+      "System.Security.Cryptography.ProtectedData/8.0.0": {},
+      "System.Threading.Tasks.Extensions/4.5.4": {},
+      "Ude.NetStandard/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Ude.NetStandard.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "z440.atl.core/4.20.0": {
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.4",
+          "Ude.NetStandard": "1.2.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ATL.dll": {
+            "assemblyVersion": "4.20.0.0",
+            "fileVersion": "4.20.0.0"
+          }
+        }
+      },
+      "AuxWin32Lib/1.0.0": {
+        "runtime": {
+          "AuxWin32Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TreeDecomposition/1.0.0": {
+        "dependencies": {
+          "UtilLib": "1.0.0"
+        },
+        "runtime": {
+          "TreeDecomposition.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UtilLib/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "8.0.0"
+        },
+        "runtime": {
+          "UtilLib.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "UtilLib.Reference/1.0.0.0": {
+        "runtime": {
+          "UtilLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AaxAudioConverterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JlYi9XVvIREURRUlGMr1F6vOFLk7YSY4p1vHo4kX3tQ0AGrjqlRWHDi66ImHhy6qwXBG3BJ6Y1QlYQ+Qz6Xgww==",
+      "path": "system.configuration.configurationmanager/8.0.0",
+      "hashPath": "system.configuration.configurationmanager.8.0.0.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fdYxcRjQqTTacKId/2IECojlDSFvp7LP5N78+0z/xH7v/Tuw5ZAxu23Y6PTCRinqyu2ePx+Gn1098NC6jM6d+A==",
+      "path": "system.diagnostics.eventlog/8.0.0",
+      "hashPath": "system.diagnostics.eventlog.8.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+TUFINV2q2ifyXauQXRwy4CiBhqvDEDZeVJU7qfxya4aRYOKzVBpN+4acx25VcPB9ywUN6C0n8drWl110PhZEg==",
+      "path": "system.security.cryptography.protecteddata/8.0.0",
+      "hashPath": "system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "Ude.NetStandard/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zRWpPAxBg3lNdm4UiKixTe+DFPoNid9CILggTCy/0WR2WKETe17kTWhiiIpLB2k5IEgnvA0QLfKlvd6Tvu0pzA==",
+      "path": "ude.netstandard/1.2.0",
+      "hashPath": "ude.netstandard.1.2.0.nupkg.sha512"
+    },
+    "z440.atl.core/4.20.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TpYm7AJASyHsrY/0t6cv2+3Lc7B2zsGel+ouWEwpO4YcNIQRCjSFcIVzJuX/JufJwYv6we8JM8jHO7Yg++JLQA==",
+      "path": "z440.atl.core/4.20.0",
+      "hashPath": "z440.atl.core.4.20.0.nupkg.sha512"
+    },
+    "AuxWin32Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreeDecomposition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilLib.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

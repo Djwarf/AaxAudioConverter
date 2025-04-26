@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);CS8600;CS8602;CS8603;CS8604;CS8618;CS8625;CA1416</NoWarn>
+    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+  </PropertyGroup>
+</Project> 
